@@ -1,5 +1,5 @@
 # Conference-Talk-Planner
-This School Java Application Project was built for managing Conference talks. It provides a smooth interface for helping users organize and set up conference speeches as
+This School Java Application Project was built for managing Conference talks. It provides a JavaFX interface for helping users organize and set up conference speeches as
 well as for helping users sign up for available conference speeches at a specific time. Users can either sign up as a speaker to a conference talk, or users can sign up 
 as an attendee for a conference talk. Certain Users can also sign up as Organizers which function similar to IT Administrators. Organizers help create and set up 
 conference talk times and can access user statistics for all Attendees and Speakers in the system. Finally, numerous additional features were added to change the 
