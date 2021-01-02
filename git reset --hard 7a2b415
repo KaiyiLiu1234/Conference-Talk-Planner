@@ -1,0 +1,52 @@
+[33m856e546[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/master
+[33me72bdbf[m HEAD@{1}: commit (merge): Merge remote-tracking branch 'origin/master' into master
+[33m7a2b415[m HEAD@{2}: commit: Completed the additional user request and completed user statistics.
+[33mf1d0d95[m HEAD@{3}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33m497b881[m HEAD@{4}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33m27d75d5[m HEAD@{5}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33mda44fb7[m HEAD@{6}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33m63c7dcf[m HEAD@{7}: commit: Final few tests for Use cases
+[33m6ada126[m HEAD@{8}: commit: Final few tests for User Manager
+[33m6319a93[m HEAD@{9}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33ma640938[m HEAD@{10}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33m8670b2b[m HEAD@{11}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33ma12f1a5[m HEAD@{12}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33m3baa2a0[m HEAD@{13}: commit: Implemented addChild and addChildren methods. Made it so they accepted MenuTree instead.
+[33m4ddf125[m HEAD@{14}: merge origin/master: Merge made by the 'recursive' strategy.
+[33m34dc7a9[m HEAD@{15}: commit: Implemented addChild and addChildren methods
+[33m0413872[m HEAD@{16}: merge origin/master: Merge made by the 'recursive' strategy.
+[33mb2a201e[m HEAD@{17}: reset: moving to HEAD
+[33mb2a201e[m HEAD@{18}: commit: Created the MenuTree class
+[33mbcefd86[m HEAD@{19}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33mbd2a4ec[m HEAD@{20}: merge origin/master: Merge made by the 'recursive' strategy.
+[33mcccaf7c[m HEAD@{21}: commit: Revised Usermanager Methods
+[33m0d0f27d[m HEAD@{22}: commit: Added additional test methods for UserManager
+[33mcc8bcd8[m HEAD@{23}: merge origin/master: Merge made by the 'recursive' strategy.
+[33m39c1f36[m HEAD@{24}: reset: moving to HEAD
+[33m39c1f36[m HEAD@{25}: commit: Fixed getSpeakerEventIDs overloaded methods
+[33m570aa20[m HEAD@{26}: commit: updated read me
+[33m54639ff[m HEAD@{27}: commit: updated read me
+[33m6f2b612[m HEAD@{28}: commit: Removed Private method testing lol
+[33m927f05d[m HEAD@{29}: commit: Removed UserManagerTests.java
+[33m9bd99e6[m HEAD@{30}: commit: added more usermanager tests
+[33mb8cfff5[m HEAD@{31}: commit: added additional getuser tests
+[33ma291097[m HEAD@{32}: merge origin/master: Merge made by the 'recursive' strategy.
+[33m86fb352[m HEAD@{33}: reset: moving to HEAD
+[33m86fb352[m HEAD@{34}: commit: This is hella messy. I added getUser tests
+[33m8e03b09[m HEAD@{35}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33ma806d73[m HEAD@{36}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33md9b7a8c[m HEAD@{37}: commit: Changed UserManager Test File
+[33m850eab4[m HEAD@{38}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33mf8454ee[m HEAD@{39}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33m3f42de1[m HEAD@{40}: merge origin/master: Merge made by the 'recursive' strategy.
+[33m4bff6d8[m HEAD@{41}: commit: Changed AddEvents to except one Event
+[33maed3e83[m HEAD@{42}: commit: Removed isAttendee (Im assuming all we need is the fact that an
+[33m2285515[m HEAD@{43}: pull --progress --no-stat -v --progress origin master: Merge made by the 'recursive' strategy.
+[33m4ecdc3f[m HEAD@{44}: commit: Added IsAttendee and implemented getAttendee. Btw I realized an issue with Organizer class. Don't know why it says it cannot access Attendee
+[33m32195ae[m HEAD@{45}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33mfeb5052[m HEAD@{46}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33m25c5e11[m HEAD@{47}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33m4727c1c[m HEAD@{48}: commit: Increase abstraction (ArrayList -> List)
+[33md4adfb9[m HEAD@{49}: pull --progress --no-stat -v --progress origin master: Fast-forward
+[33ma961fec[m HEAD@{50}: commit: Created Constructor for Organizer Class
+[33m336a5c3[m HEAD@{51}: clone: from https://markus.teach.cs.toronto.edu/git/csc207-2020-09/group_0179
